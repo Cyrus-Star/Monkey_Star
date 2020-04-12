@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mongo_demo" />
+        <module name="netty_demo" />
+        <module name="SSM" />
+        <module name="tensquare_article" />
+        <module name="tensquare_common" />
+        <module name="tensquare_encrypt" />
+        <module name="tensquare_eureka" />
+        <module name="tensquare_notice" />
+        <module name="tensquare_user" />
+        <module name="tensquareencrypt" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mongo_demo" target="1.8" />
+      <module name="netty_demo" target="1.8" />
+      <module name="SSM" target="1.8" />
+      <module name="tensquare_article" target="1.8" />
+      <module name="tensquare_common" target="1.8" />
+      <module name="tensquare_encrypt" target="1.8" />
+      <module name="tensquare_eureka" target="1.8" />
+      <module name="tensquare_notice" target="1.8" />
+      <module name="tensquare_parent" target="1.8" />
+      <module name="tensquare_user" target="1.8" />
+      <module name="tensquareencrypt" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
